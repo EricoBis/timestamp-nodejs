@@ -4,8 +4,8 @@ This repository contains a simple Node.js application that provides an API endpo
 
 ```json
 {
-  "unix": 1451001600000,
-  "utc": "Fri, 25 Dec 2015 00:00:00 GMT"
+  "unix": 1707403038848,
+  "utc": "Thu, 08 Feb 2024 14:37:18 GMT"
 }
 ```
 
