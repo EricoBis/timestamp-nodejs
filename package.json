@@ -1,10 +1,11 @@
 {
+  "type": "module",
   "name": "timestamp-nodejs",
   "version": "0.0.1",
   "description": "timestamp api node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.ts"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.12.4",
